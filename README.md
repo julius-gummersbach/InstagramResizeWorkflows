@@ -1,5 +1,5 @@
 # InstagramResizeWorkflows
-Workflows for posting Portrait Images to Instagram without cropping
+Mac Workflows for posting portrait images to Instagram without cropping
 
 - These Workflows always produce a 1440x1800 image, and add either white or black padding around the image, as indicated by the W or B.
 - The Workflows with "Portrait" in the name take images as input, whose height is larger than their width
